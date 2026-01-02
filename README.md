@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=29&text=PEDRO%20VENANCIO%20DOS%20SANTOS&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=29&text=PEDRO%20VENANCIO%20DOS%20SANTOS&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro%20Venâncio&textBg=false&desc=Desenvolvedor%20Full-satack&descAlign=50&descAlignY=53&fontAlign=50&fontAlignY=32&stroke=ffffff&strokeWidth=0&reversal=true)"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=pdrVenancio">
