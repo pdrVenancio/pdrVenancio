@@ -22,7 +22,14 @@
 
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/pdr-venancio/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="PEDRO VENANCIO DOS SANTOS's LinkedIn"/></a> <a href="mailto:pdr.venancio1@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="PEDRO VENANCIO DOS SANTOS's Email"/></a></p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/pdr-venancio/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="PEDRO VENANCIO DOS SANTOS's LinkedIn"/>
+  </a> 
+  <a href="mailto:pdr.venancio1@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D42C26" alt="PEDRO VENANCIO DOS SANTOS's Email"/>
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
@@ -30,7 +37,6 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 
 
